@@ -1,0 +1,6 @@
+artifact_location: file://./mlruns/377322298845263917
+creation_time: 1709029953656
+experiment_id: '377322298845263917'
+last_update_time: 1709029953656
+lifecycle_stage: active
+name: Credit_scoring
